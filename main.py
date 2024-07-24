@@ -18,3 +18,7 @@ def find_substring(text, substring):
             indices.append(i)
 
     return indices
+
+
+print(find_substring("hello_world", "_"))
+
