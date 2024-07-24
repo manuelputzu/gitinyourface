@@ -1,7 +1,5 @@
 def main():
-    sentence_example = "Hello world"
-    data = ([i] for i in sentence_example)
-    print(data)
+    print ("Hello world!!!")
 
 
 if __name__ == "__main__":
